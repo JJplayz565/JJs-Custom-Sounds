@@ -1,7 +1,7 @@
 {
 	"name": "JJs_Custom_Sounds",
 	"version_number": "0.1.0",
-	"website_url": "",
+	"website_url": "https://github.com/JJplayz565/JJs-Custom-Sounds.git",
 	"description": "Replaces some sounds in the game",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
