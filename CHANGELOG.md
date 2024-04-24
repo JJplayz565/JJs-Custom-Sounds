@@ -1,3 +1,7 @@
+## v0.1.3
+
+- **Fixed** the returning bug where no sounds would load
+
 ## v0.1.2
 
 - **Updated** README
